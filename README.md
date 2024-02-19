@@ -2,7 +2,7 @@
 
 El proyecto **Last Mile Zero** tiene como objetivo transformar la última milla del comercio electrónico en una experiencia de "entregas cercanas, sencillas y sostenibles".
 
-![Logo de Last Mile Zero](logo.png)
+![Logo de Last Mile Zero](Logo.png)
 
 ## Descripción
 

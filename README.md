@@ -2,6 +2,8 @@
 
 El proyecto **Last Mile Zero** tiene como objetivo transformar la última milla del comercio electrónico en una experiencia de "entregas cercanas, sencillas y sostenibles".
 
+![Logo de Last Mile Zero](logo.png)
+
 ## Descripción
 
 La última milla en el comercio electrónico es un componente crítico que influye en la satisfacción del cliente y en la eficiencia operativa de las empresas. **Last Mile Zero** se enfoca en abordar los desafíos asociados con esta etapa crucial, buscando soluciones innovadoras que permitan entregas más cercanas al cliente, simplificadas en su proceso y sostenibles desde el punto de vista ambiental.
@@ -32,6 +34,10 @@ La última milla en el comercio electrónico es un componente crítico que influ
 - **Juanjo Rodríguez**
 - **Agustí Castro**
 - **Jorge Mazuelas**
+
+## Licencia
+
+Este proyecto está bajo la [Licencia MIT](LICENSE).
 
 ## Contacto
 

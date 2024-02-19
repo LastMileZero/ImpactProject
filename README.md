@@ -31,7 +31,7 @@ La última milla en el comercio electrónico es un componente crítico que influ
 
 - **Beatriz Laborel**
 - **Miguel Roig** 
-- **Juanjo Rodríguez**
+- **[Juanjo Rodríguez](https://github.com/jjrr-es)**
 - **Agustí Castro**
 - **Jorge Mazuelas**
 

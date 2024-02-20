@@ -29,7 +29,7 @@ La última milla en el comercio electrónico es un componente crítico que influ
 
 ## Equipo
 
-- **Beatriz Laborel**
+- **[Beatriz Laborel](https://github.com/blaborel)**
 - **Miguel Roig** 
 - **[Juanjo Rodríguez](https://github.com/jjrr-es)**
 - **Agustí Castro**

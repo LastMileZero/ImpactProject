@@ -29,11 +29,11 @@ La última milla en el comercio electrónico es un componente crítico que influ
 
 ## Equipo
 
+- **[Agustí Castro](https://github.com/agcastrom)**
 - **[Beatriz Laborel](https://github.com/blaborel)**
-- **Miguel Roig** 
 - **[Juanjo Rodríguez](https://github.com/jjrr-es)**
-- **Agustí Castro**
-- **Jorge Mazuelas**
+- **[Jorge Mazuelas](https://github.com/mazuelin)**
+- **[Miguel Roig](https://github.com/MiguelRoigB)** 
 
 ## Licencia
 
